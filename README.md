@@ -1,6 +1,6 @@
 ### NAMASTE! 🙏
 
-<img src="https://raw.githubusercontent.com/mr-possible/mr-possible/master/pic.jpg?raw=true" size="200"/>
+<img src="https://raw.githubusercontent.com/mr-possible/mr-possible/master/pic.jpg?raw=true" sizes="150"/>
 
 🔭 You are checking out a profile of a Test Automation Consultant in Bangalore, Karnatka IN. He likes to call himself **mr-possible**.
 
@@ -9,14 +9,11 @@
 💬 Ask me about : Though I am not an expert, but I love to study about Human Behaviour and how software companies are using it to strive in this competitive world.
 
 📫 How to reach me: Umm, you probably have reached me, no ? Okay okay 🤦‍♂️, here you go.
-<p align="center">
-*For offering me discounts / job offers : 🎈 **sambhavd4@gmail.com**
-  <br>
-*For knowing me professionally          : 📝 https://www.linkedin.com/in/sambhav6197/
-  <br>
-*Twitter (don't know why does it matter): https://twitter.com/DaveSambhav
-</p>
-             
+
+* [For sending discounts/job offers](mailto:sambhavd4@gmail.com)
+* [For knowing me professionally](https://www.linkedin.com/in/sambhav6197/)
+* [Twitter (don't know why does this matter)](https://twitter.com/DaveSambhav)
+
 
 _Anyone up for a quick game of chess ?_
 
