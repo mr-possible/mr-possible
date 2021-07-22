@@ -10,6 +10,5 @@
 
 
 
-
-- Anyone up for a quick game of chess ?
+<!-- Anyone up for a quick game of chess ? -->
 
