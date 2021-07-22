@@ -1,6 +1,6 @@
 ### NAMASTE! 🙏
 
-<img src="https://raw.githubusercontent.com/mr-possible/mr-possible/master/pic.jpg/sanitize=true&raw=true"/>
+<img src="https://raw.githubusercontent.com/mr-possible/mr-possible/master/pic.jpg/sanitize=true&raw=true" size="200"/>
 
 - 🔭 You are checking out a profile of a Test Automation Consultant in Bangalore, Karnatka IN. He likes to call himself **mr-possible**.
 - 🌱 He currently is exploring areas of test automation, devops and Angular.
