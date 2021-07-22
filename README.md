@@ -15,5 +15,6 @@
 * [Twitter (don't know why does this matter)](https://twitter.com/DaveSambhav)
 
 
-_Anyone up for a quick game of chess ?_
+
+:chess_pawn: _Anyone up for a quick game of chess ?_  
 
