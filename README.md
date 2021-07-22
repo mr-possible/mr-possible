@@ -20,6 +20,7 @@
 
 
 <p align="center">
-![](https://komarev.com/ghpvc/?username=mr-possible&style=plastic&label=Folks+who+think+I+am+a+great+developer)
+  Visitors till now : 
+<img src="https://profile-counter.glitch.me/mr-possible/count.svg" />
 </p>
 
