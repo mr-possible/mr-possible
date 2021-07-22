@@ -18,3 +18,8 @@
 
 :chess_pawn: _Anyone up for a quick game of chess ?_  
 
+
+<p align="center">
+![](https://komarev.com/ghpvc/?username=mr-possible&style=plastic&label=Folks+who+think+I+am+a+great+developer)
+</p>
+
