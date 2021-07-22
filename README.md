@@ -8,8 +8,7 @@
 - 📫 How to reach me: Umm, you probably have reached me, no ? Okay okay 🤦‍♂️, here you go :
             1. For offering me discounts / job offers : 🎈 **sambhavd4@gmail.com**
             2. For knowing me professionally          : 📝 https://www.linkedin.com/in/sambhav6197/
-            3. Twitter (don't know why does it matter): https://twitter.com/DaveSambhav
-        
+            3. Twitter (don't know why does it matter): https://twitter.com/DaveSambhav        
 
 _Anyone up for a quick game of chess ?_
 
