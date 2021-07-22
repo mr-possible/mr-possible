@@ -10,9 +10,11 @@
 
 📫 How to reach me: Umm, you probably have reached me, no ? Okay okay 🤦‍♂️, here you go.
 <p align="center">
-- For offering me discounts / job offers : 🎈 **sambhavd4@gmail.com**
-- For knowing me professionally          : 📝 https://www.linkedin.com/in/sambhav6197/
-- Twitter (don't know why does it matter): https://twitter.com/DaveSambhav
+*For offering me discounts / job offers : 🎈 **sambhavd4@gmail.com**
+  <br>
+*For knowing me professionally          : 📝 https://www.linkedin.com/in/sambhav6197/
+  <br>
+*Twitter (don't know why does it matter): https://twitter.com/DaveSambhav
 </p>
              
 
