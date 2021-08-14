@@ -1,6 +1,6 @@
 ### NAMASTE! 🙏
 
-<img src="https://raw.githubusercontent.com/mr-possible/mr-possible/master/pic.jpg?raw=true" sizes="100"/>
+<img src="https://raw.githubusercontent.com/mr-possible/mr-possible/master/pic.jpg?raw=true" size="75"/>
 
 🔭 You have landed on a profile of a Test Automation Engineer in Bangalore, Karnatka IN. He likes to call himself **mr-possible**.
 
