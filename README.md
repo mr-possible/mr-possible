@@ -1,12 +1,12 @@
 ### NAMASTE! 🙏
 
-<img src="https://raw.githubusercontent.com/mr-possible/mr-possible/master/pic.jpg?raw=true" size="50"/>
+<img src="https://raw.githubusercontent.com/mr-possible/mr-possible/master/pic.jpg?raw=true" />
 
-🔭 You have landed on a profile of a Test Automation Engineer in Bangalore, Karnatka IN. He likes to call himself **mr-possible**.
+🔭 I am a Test Automation Engineer living in Bangalore, Karnatka IN. I like to call myself **mr-possible** over internet.
 
-🌱 He currently is exploring areas of test automation, devops and Angular.
+🌱 I currently am exploring areas of test automation, devops and Angular.
 
-💬 Ask me about : Though I am not an expert, but I love to study about Human Behaviour and how software companies are using it to strive in this competitive world.
+💬 Ask me about : I love to study about Human Behaviour and how software companies are using it to strive in this competitive world.
 
 📫 How to reach me: Here you go : 
 
