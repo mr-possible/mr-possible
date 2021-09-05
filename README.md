@@ -2,13 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/mr-possible/mr-possible/master/pic.jpg?raw=true" />
 
-🔭 I am a Test Automation Engineer living in Bangalore, Karnatka IN. I like to call myself **mr-possible** over internet.
+🔭 I am a Test Automation Engineer living in Bangalore, Karnatka IN.
 
-🌱 I currently am exploring areas of test automation, devops and Angular.
-
-💬 Ask me about : I love to study about Human Behaviour and how software companies are using it to strive in this competitive world.
-
-📫 How to reach me: Here you go : 
+📫 How to reach me:
 
 * [For sending discounts/job offers](mailto:sambhavd4@gmail.com)
 * [For knowing me professionally](https://www.linkedin.com/in/sambhav6197/)
